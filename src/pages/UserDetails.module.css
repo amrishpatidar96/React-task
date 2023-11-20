@@ -1,0 +1,54 @@
+button {
+  padding: 10px;
+  width: "25%";
+}
+.headercontainer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.country {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnback {
+  min-width: 25%;
+}
+
+.timer {
+  display: flex;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.profilecontainer {
+  padding: 2rem;
+  border: 1px solid;
+  margin: 1rem;
+}
+
+.userInfo {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.userdata {
+  display: flex;
+  min-width: 50%;
+  max-width: 50%;
+}
+
+.post {
+  border: 1px solid;
+  padding: 10px;
+  min-width: 33%;
+  max-width: 33%;
+}
+
+.postContainer {
+  display: flex;
+  flex-wrap: wrap;
+}

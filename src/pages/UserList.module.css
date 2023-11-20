@@ -1,0 +1,27 @@
+.container {
+  padding: 20px;
+  border: 1px solid black;
+  margin: 27px;
+}
+
+.heading {
+  text-align: center;
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+.user {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: cyan;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.username {
+  display: flex;
+  column-gap: 10px;
+}
